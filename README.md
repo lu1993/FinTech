@@ -12,4 +12,4 @@ The procedure involves preprocessing 1,320,000+ samples and filtering 100+ featu
 The top five key features picked according to the feature-importance scores are: debt-to-income ratio, annual income, total installment high credit/credit limit, revolving credit limit and portion of balances. 
 
 ## **Product**
-![]({{site.baseurl}}/![product1](https://cloud.githubusercontent.com/assets/9781300/25456176/c3704400-2a97-11e7-9959-7ad18bb69680.png)
+![product1](/product/product1.png)

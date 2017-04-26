@@ -13,3 +13,7 @@ The top five key features picked according to the feature-importance scores are:
 
 ## **Product**
 ![product1](/product/product1.png)
+![product1](/product/product2.png)
+![product1](/product/product3.png)
+![product1](/product/product4.png)
+![product1](/product/product5.png)
